@@ -1,3 +1,3 @@
-# devsamlak
+# iviidev
 My personal website
-https://devsamlak.netlify.app
+https://ivii-portfolio.netlify.app/
